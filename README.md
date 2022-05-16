@@ -2,7 +2,7 @@
 
 Description
 -----------
-Window application build in Unity Engine.
+Pathfinder Visualizer application build in Unity Engine.
 
 About
 -----
