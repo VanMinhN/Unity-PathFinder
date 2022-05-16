@@ -2,7 +2,7 @@
 
 Description
 -----------
-
+Window application build in Unity Engine.
 
 About
 -----
